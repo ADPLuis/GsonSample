@@ -8,6 +8,7 @@
 		<!-- Versión de Java -->
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
+	  <exec.mainClass>GsonSample.Main</exec.mainClass>
 	</properties>
 	<dependencies>
 		<dependency>
